@@ -7,8 +7,8 @@ import pandas as pd
 import pyodbc as py
 server = 'd2mtrainingdb.database.windows.net'
 db = 'd2manalysistraining'
-user = 'dbtuser'
-pwd = 'Disys@2022'
+user = '****'
+pwd = '**@**'
 
 
 conn = py.connect('DRIVER={SQL Server};SERVER=' + server +
